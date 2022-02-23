@@ -28,4 +28,26 @@ These changes allow us to pass the user-defined callback function along the way.
 
 The full paper can be accessed with [arXiv](https://arxiv.org/abs/2010.14861).
 
-To be appeared in IROS 2021 (https://www.iros2021.org/).
+If you are interested, please cite our IROS 2021 paper:
+
+```
+@inproceedings{DBLP:conf/iros/WangZWDQM21,
+  author    = {Yu{-}Ping Wang and
+               Zi{-}Xin Zou and
+               Cong Wang and
+               Yue{-}Jiang Dong and
+               Lei Qiao and
+               Dinesh Manocha},
+  title     = {ORBBuf: {A} Robust Buffering Method for Remote Visual {SLAM}},
+  booktitle = {{IEEE/RSJ} International Conference on Intelligent Robots and Systems,
+               {IROS} 2021, Prague, Czech Republic, September 27 - Oct. 1, 2021},
+  pages     = {8706--8713},
+  publisher = {{IEEE}},
+  year      = {2021},
+  url       = {https://doi.org/10.1109/IROS51168.2021.9635950},
+  doi       = {10.1109/IROS51168.2021.9635950},
+  timestamp = {Wed, 22 Dec 2021 12:37:50 +0100},
+  biburl    = {https://dblp.org/rec/conf/iros/WangZWDQM21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
